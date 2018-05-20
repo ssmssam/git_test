@@ -6,5 +6,12 @@ import matplotlib.pyplot as plt
 a = 2 * 3 
 
 
-print (a)
+print (a)  
+
+
+
+
+b = 7 
+
+print (b)
 
