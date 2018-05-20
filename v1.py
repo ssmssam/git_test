@@ -1,3 +1,8 @@
 import numpy
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
+
+
+
+
+a = 2 * 2 
 
